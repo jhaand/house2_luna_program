@@ -11,7 +11,7 @@ reset if that's necessary.
 The TF-luna connects to a NodeMCU with and ESP32S. I use PlatformIO to
 program the ESP32. 
 
-It uses the TFLI2C library by Bud Ryerson. 
+It uses the TFLI2C library by Bud Ryerson. (@budryerson)
 You can find it here: https://github.com/budryerson/TFLuna-I2C
 
 
